@@ -7,3 +7,6 @@ mv ~/.vimrc ~/PrevConf
 mv ~/.tmux.conf ~/PrevConf
 cp .vimrc ~/
 cp .tmux.conf ~/
+cd
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
