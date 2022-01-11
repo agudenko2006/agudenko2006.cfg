@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-sudo apt install vim tmux gcc cmake make git
+sudo apt install vim tmux gcc cmake make git tldr bat fd
 mkdir ~/PrevConf
 #mv ~/.bashrc ~/PrevConf
 mv ~/.vimrc ~/PrevConf

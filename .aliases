@@ -1,0 +1,5 @@
+alias duf="duf --only local"
+alias cat="bat"
+alias la="ls -a"
+alias ll="ls -l"
+alias al="ls -al"

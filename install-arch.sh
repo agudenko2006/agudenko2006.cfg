@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo pacman -Syu
-sudo pacman -S vim tmux gcc cmake make git
+sudo pacman -S vim tmux gcc cmake make git tldr duf bat fd
 mkdir ~/PrevConf
 #mv ~/.bashrc ~/PrevConf
 mv ~/.vimrc ~/PrevConf
